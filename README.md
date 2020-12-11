@@ -1,8 +1,7 @@
 # Py-Crawler
-[![GitHub Release](https://img.shields.io/github/release/zjayers/py-crawler.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/py-crawler.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/py-crawler.svg?style=flat)](https://github.com/zjayers/py-crawler/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/py-crawler.svg?style=flat)](https://github.com/zjayers/py-crawler/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/py-crawler.svg?maxAge=25000)](https://github.com/zjayers/py-crawler/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/py-crawler/blob/master/LICENSEs)
 
 ## Description
 
